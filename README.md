@@ -86,7 +86,7 @@ empresariales en la nube.
 ## 📫 Contacto
 
 - 💼 LinkedIn: [Mi perfil profesional](https://www.linkedin.com/in/alejolopezp/)
-- 📧 Correo: tu-correo@ejemplo.com
+- 📧 Correo: alejo197lp@gmail.com
 
 ---
 
