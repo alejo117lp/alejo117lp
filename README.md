@@ -1,12 +1,12 @@
 <h1 align="center">Hola, soy Alejandro López 👋</h1>
 
 <p align="center">
-  Full Stack Web Developer · React · JavaScript · Python · Django
+  Full Stack Web & Game Developer · React · JavaScript · Python · Django · Unity · C#
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=720&lines=Full+Stack+Web+Development+(Enfoque+Frontend);React+%7C+Vite+%7C+JavaScript+%7C+Python+%7C+Django;Desarrollo+asistido+por+IA+(Claude+Code%2C+Codex%2C+Cursor);Automatizaci%C3%B3n+de+procesos+y+plataformas+empresariales"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=740&lines=Full+Stack+Web+Development+(Enfoque+Frontend);React+%7C+Vite+%7C+JavaScript+%7C+Python+%7C+Django;Desarrollo+de+Videojuegos+y+Experiencias+3D%2FVR+(Unity+%7C+C%23);Desarrollo+asistido+por+IA+(Claude+Code%2C+Codex%2C+Cursor)"
     alt="Presentación animada"
   />
 </p>
@@ -15,14 +15,14 @@
 
 ## 👨‍💻 Sobre mí
 
-Ingeniero en Diseño de Entretenimiento Digital y desarrollador web full stack con enfoque en **frontend**. Me especializo en construir plataformas y aplicaciones web escalables y de alto rendimiento con **React, Vite, JavaScript, Python y Django**, integrando flujos de desarrollo asistido por IA (**Claude Code, Codex, Cursor**) y pruebas de rendimiento para acelerar entregas, elevar la calidad del código y automatizar procesos operativos críticos.
+Ingeniero en Diseño de Entretenimiento Digital con experiencia en **desarrollo web full stack** (enfoque en frontend) y **desarrollo de videojuegos y experiencias interactivas en Unity y C#**. Construyo plataformas web escalables con **React, Vite, JavaScript, Python y Django**, así como entornos 3D y de realidad virtual, integrando flujos de desarrollo asistido por IA (**Claude Code, Codex, Cursor**) y pruebas de rendimiento.
 
 - 💻 Desarrollo de interfaces web responsivas y aplicaciones full stack institucionales.
+- 🎮 Desarrollo de videojuegos, mecánicas interactivas y simuladores 3D/VR en **Unity y C#** (Oculus Quest).
 - 🤖 Flujos de desarrollo asistido por IA con **Claude Code, Codex y Cursor** para análisis, refactorización y optimización.
 - ⚙️ Automatización de procesos operativos e integración bidireccional con **Odoo** y **WhatsApp API**.
 - 🧪 Validación de concurrencia y rendimiento mediante pruebas de carga con **k6**.
 - ☁️ Despliegue e integración de APIs REST y servicios sobre **Microsoft Azure**.
-- 🛡️ Gobernanza de repositorios en **GitHub**, revisión de Pull Requests y estándares de código.
 
 ---
 
@@ -44,6 +44,12 @@ Ingeniero en Diseño de Entretenimiento Digital y desarrollador web full stack c
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
 ![WhatsApp API](https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 
+### Videojuegos & Experiencias Interactivas
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Oculus Quest](https://img.shields.io/badge/VR_%2F_Oculus_Quest-1C1E20?style=for-the-badge&logo=meta&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 ### IA, Testing & Cloud
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![OpenAI Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -52,17 +58,17 @@ Ingeniero en Diseño de Entretenimiento Digital y desarrollador web full stack c
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### Diseño, Scripting y Otros
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ---
 
 ## 🚀 Proyectos y Soluciones Destacadas
+
+### 🎮 Videojuegos y Experiencias Interactivas 3D / VR
+`Unity` · `C#` · `Oculus Quest`
+- Desarrollo de videojuegos y simuladores interactivos en **Unity** con arquitectura y programación orientada a objetos en **C#**.
+- Implementación de mecánicas de juego, físicas, sistemas de interfaz de usuario (UI) y optimización de rendimiento para entornos 3D y realidad virtual (disponibles en [alejo117.dev](https://alejo117.dev/)).
 
 ### 🚆 Sistema de Gestión de Turnos & Módulo de Verificación
 `Django` · `Python` · `JavaScript` · `SQL`
@@ -92,6 +98,6 @@ Ingeniero en Diseño de Entretenimiento Digital y desarrollador web full stack c
 
 <p align="center">
   <em>
-    Construyendo plataformas web escalables y automatizando procesos operativos con código limpio e inteligencia artificial.
+    Construyendo plataformas web escalables, experiencias interactivas y automatizaciones con código limpio e inteligencia artificial.
   </em>
 </p>
