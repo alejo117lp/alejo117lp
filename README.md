@@ -1,12 +1,12 @@
 <h1 align="center">Hola, soy Alejandro López 👋</h1>
 
 <p align="center">
-  Frontend & Full Stack Developer · React · JavaScript · Python · Django
+  Full Stack Web Developer · React · JavaScript · Python · Django
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=720&lines=Frontend+%26+Full+Stack+Web+Development;React+%7C+Vite+%7C+JavaScript+%7C+Python+%7C+Django;Desarrollo+asistido+por+IA+(Claude+Code%2C+Codex%2C+Cursor);Automatizaci%C3%B3n+de+procesos+y+plataformas+empresariales"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=720&lines=Full+Stack+Web+Development+(Enfoque+Frontend);React+%7C+Vite+%7C+JavaScript+%7C+Python+%7C+Django;Desarrollo+asistido+por+IA+(Claude+Code%2C+Codex%2C+Cursor);Automatizaci%C3%B3n+de+procesos+y+plataformas+empresariales"
     alt="Presentación animada"
   />
 </p>
@@ -15,14 +15,14 @@
 
 ## 👨‍💻 Sobre mí
 
-Ingeniero en Diseño de Entretenimiento Digital y desarrollador web full stack con enfoque en **frontend**[cite: 3]. Me especializo en construir plataformas y aplicaciones web escalables y de alto rendimiento con **React, Vite, JavaScript, Python y Django**, integrando flujos de desarrollo asistido por IA (**Claude Code, Codex, Cursor**) y pruebas de rendimiento para acelerar entregas, elevar la calidad del código y automatizar procesos operativos críticos[cite: 3].
+Ingeniero en Diseño de Entretenimiento Digital y desarrollador web full stack con enfoque en **frontend**. Me especializo en construir plataformas y aplicaciones web escalables y de alto rendimiento con **React, Vite, JavaScript, Python y Django**, integrando flujos de desarrollo asistido por IA (**Claude Code, Codex, Cursor**) y pruebas de rendimiento para acelerar entregas, elevar la calidad del código y automatizar procesos operativos críticos.
 
-- 💻 Desarrollo de interfaces web responsivas y aplicaciones full stack institucionales[cite: 3].
-- 🤖 Flujos de desarrollo asistido por IA con **Claude Code, Codex y Cursor** para análisis, refactorización y optimización[cite: 3].
-- ⚙️ Automatización de procesos operativos e integración bidireccional con **Odoo** y **WhatsApp API**[cite: 3].
-- 🧪 Validación de concurrencia y rendimiento mediante pruebas de carga con **k6**[cite: 3].
-- ☁️ Despliegue e integración de APIs REST y servicios sobre **Microsoft Azure**[cite: 2, 3].
-- 🛡️ Gobernanza de repositorios en **GitHub**, revisión de Pull Requests y estándares de código[cite: 3].
+- 💻 Desarrollo de interfaces web responsivas y aplicaciones full stack institucionales.
+- 🤖 Flujos de desarrollo asistido por IA con **Claude Code, Codex y Cursor** para análisis, refactorización y optimización.
+- ⚙️ Automatización de procesos operativos e integración bidireccional con **Odoo** y **WhatsApp API**.
+- 🧪 Validación de concurrencia y rendimiento mediante pruebas de carga con **k6**.
+- ☁️ Despliegue e integración de APIs REST y servicios sobre **Microsoft Azure**.
+- 🛡️ Gobernanza de repositorios en **GitHub**, revisión de Pull Requests y estándares de código.
 
 ---
 
@@ -32,12 +32,11 @@ Ingeniero en Diseño de Entretenimiento Digital y desarrollador web full stack c
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript_(ES6+)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Backend, Bases de Datos & Integraciones
+### Backend, Bases de Datos e Integraciones
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/SQL_%2F_PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -67,27 +66,27 @@ Ingeniero en Diseño de Entretenimiento Digital y desarrollador web full stack c
 
 ### 🚆 Sistema de Gestión de Turnos & Módulo de Verificación
 `Django` · `Python` · `JavaScript` · `SQL`
-- Plataforma para programar, auditar y dar seguimiento a turnos, solicitudes y novedades del personal de conducción del Metro de Medellín[cite: 1, 3].
-- Restauración y modernización de la interfaz de usuario, optimizando consultas críticas y desarrollando el motor de validación de horas reales, alertas automáticas y reportes auditables[cite: 1, 3].
+- Plataforma para programar, auditar y dar seguimiento a turnos, solicitudes y novedades del personal de conducción del Metro de Medellín.
+- Restauración y modernización de la interfaz de usuario, optimizando consultas críticas y desarrollando el motor de validación de horas reales, alertas automáticas y reportes auditables.
 
 ### 🔄 Plataforma de Contratación y Automatización Operativa
 `React` · `Vite` · `Django` · `Odoo` · `WhatsApp API` · `k6`
-- Arquitectura frontend modular en **React + Vite** para gestionar solicitudes de contratación, flujos internos y parámetros de riesgo laboral[cite: 3].
-- Integración bidireccional con **Odoo** (prórrogas y liquidaciones), notificaciones automatizadas vía **WhatsApp API** y validación de concurrencia con **k6**[cite: 3].
+- Arquitectura frontend modular en **React + Vite** para gestionar solicitudes de contratación, flujos internos y parámetros de riesgo laboral.
+- Integración bidireccional con **Odoo** (prórrogas y liquidaciones), notificaciones automatizadas vía **WhatsApp API** y validación de concurrencia con **k6**.
 
 ### 🏢 Portal de Empleados & Gestión de Capacitaciones
 `React` · `Python` · `Django` · `Microsoft Azure`
-- Desarrollo del frontend completo en **React** para centralizar trámites y consultas internas, integrado con APIs y servicios desplegados en **Microsoft Azure**[cite: 1, 3].
-- Plataforma full stack autónoma para la administración de eventos, capacitaciones, reuniones y control de asistencia institucional[cite: 1, 3].
+- Desarrollo del frontend completo en **React** para centralizar trámites y consultas internas, integrado con APIs y servicios desplegados en **Microsoft Azure**.
+- Plataforma full stack autónoma para la administración de eventos, capacitaciones, reuniones y control de asistencia institucional.
 
 ---
 
 ## 📫 Contacto
 
-- 🌐 Portafolio: [alejo117.dev](https://alejo117.dev/)[cite: 3]
+- 🌐 Portafolio: [alejo117.dev](https://alejo117.dev/)
 - 💼 LinkedIn: [linkedin.com/in/alejolopezp](https://www.linkedin.com/in/alejolopezp/)
 - 🐙 GitHub: [github.com/alejo117lp](https://github.com/alejo117lp)
-- 📧 Correo: alejo197lp@gmail.com[cite: 3]
+- 📧 Correo: alejo197lp@gmail.com
 
 ---
 
